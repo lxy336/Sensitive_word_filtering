@@ -1,0 +1,151 @@
+﻿audio_file,language,filter_method,sensitive_words_count,audio_duration,total_time,real_time_factor,memory_used,segments_count,filtered_words_count,success,test_case,word_set,length_category
+【订阅 酷哥酷发明爆笑合集 收听更多】酷哥爱美食1第3集，东坡肉_1.mp3,zh,DFA,3,215.72,25.554523944854736,0.11846154248495613,662.0625,91,17,True,basic_performance,small,
+【订阅 酷哥酷发明爆笑合集 收听更多】酷哥爱美食1第3集，东坡肉_1.mp3,zh,aho_corasick,3,215.72,25.316810607910156,0.11735958931907174,37.13671875,91,17,True,basic_performance,small,
+【订阅 酷哥酷发明爆笑合集 收听更多】酷哥爱美食1第3集，东坡肉_1.mp3,zh,trie_tree,3,215.72,25.646286964416504,0.11888692269801829,-12.95703125,91,17,True,basic_performance,small,
+【订阅 酷哥酷发明爆笑合集 收听更多】酷哥爱美食1第3集，东坡肉_1.mp3,zh,replace,3,215.72,27.169315338134766,0.125947132107059,15.08203125,91,17,True,basic_performance,small,
+【订阅 酷哥酷发明爆笑合集 收听更多】酷哥爱美食1第3集，东坡肉_1.mp3,zh,regular_expression,3,215.72,26.764134883880615,0.12406886187595316,-3.22265625,91,17,True,basic_performance,small,
+【课外侦探组1】第10章，惹了一个鲁莽家长（上）_1.mp3,zh,DFA,3,281.04,35.250755310058594,0.12542967303607527,31.62109375,83,31,True,basic_performance,small,
+【课外侦探组1】第10章，惹了一个鲁莽家长（上）_1.mp3,zh,aho_corasick,3,281.04,34.931485176086426,0.12429364210107609,-18.55078125,83,31,True,basic_performance,small,
+【课外侦探组1】第10章，惹了一个鲁莽家长（上）_1.mp3,zh,trie_tree,3,281.04,34.971420764923096,0.12443574140664351,28.3125,83,31,True,basic_performance,small,
+【课外侦探组1】第10章，惹了一个鲁莽家长（上）_1.mp3,zh,replace,3,281.04,35.838597536087036,0.12752134050699912,-29.9921875,83,31,True,basic_performance,small,
+【课外侦探组1】第10章，惹了一个鲁莽家长（上）_1.mp3,zh,regular_expression,3,281.04,35.62987208366394,0.1267786510235694,31.76953125,83,31,True,basic_performance,small,
+【课外侦探组1】第10章，惹了一个鲁莽家长（上）_2.mp3,zh,DFA,3,265.82,36.26055717468262,0.13641019176391023,34.8359375,117,16,True,basic_performance,small,
+【课外侦探组1】第10章，惹了一个鲁莽家长（上）_2.mp3,zh,aho_corasick,3,265.82,36.99065065383911,0.13915676267338467,-42.5859375,117,16,True,basic_performance,small,
+【课外侦探组1】第10章，惹了一个鲁莽家长（上）_2.mp3,zh,trie_tree,3,265.82,36.00161862373352,0.13543607939106733,14.53515625,117,16,True,basic_performance,small,
+【课外侦探组1】第10章，惹了一个鲁莽家长（上）_2.mp3,zh,replace,3,265.82,36.19311451911926,0.136156476258819,-5.8203125,117,16,True,basic_performance,small,
+【课外侦探组1】第10章，惹了一个鲁莽家长（上）_2.mp3,zh,regular_expression,3,265.82,35.81642436981201,0.13473938894670082,-5.74609375,117,16,True,basic_performance,small,
+004 禁忌森林 The Forbidden Forest.mp3,en,DFA,3,734.14,71.26396179199219,0.09707135122999999,157.39453125,120,63,True,basic_performance,small,
+004 禁忌森林 The Forbidden Forest.mp3,en,aho_corasick,3,734.14,72.03577327728271,0.09812266499207606,-13.00390625,120,63,True,basic_performance,small,
+004 禁忌森林 The Forbidden Forest.mp3,en,trie_tree,3,734.14,71.51519250869751,0.09741356213896193,-0.11328125,120,63,True,basic_performance,small,
+004 禁忌森林 The Forbidden Forest.mp3,en,replace,3,734.14,74.65920495986938,0.10169614100834908,18.23828125,120,63,True,basic_performance,small,
+004 禁忌森林 The Forbidden Forest.mp3,en,regular_expression,3,734.14,71.6003315448761,0.0975295332564308,-13.37890625,120,63,True,basic_performance,small,
+005 不会跳舞的公主 Princess Who Couldn't Dance.mp3,en,DFA,3,803.1,72.66443991661072,0.09047994012776829,176.42578125,207,54,True,basic_performance,small,
+005 不会跳舞的公主 Princess Who Couldn't Dance.mp3,en,aho_corasick,3,803.1,70.91216135025024,0.08829804675663086,4.94921875,207,54,True,basic_performance,small,
+005 不会跳舞的公主 Princess Who Couldn't Dance.mp3,en,trie_tree,3,803.1,70.68611907958984,0.08801658458422344,1.8203125,207,54,True,basic_performance,small,
+005 不会跳舞的公主 Princess Who Couldn't Dance.mp3,en,replace,3,803.1,70.66963052749634,0.08799605345224298,-2.00390625,207,54,True,basic_performance,small,
+005 不会跳舞的公主 Princess Who Couldn't Dance.mp3,en,regular_expression,3,803.1,74.11896538734436,0.09229107880381567,-6.421875,207,54,True,basic_performance,small,
+006 懒惰的男孩 The Lazy Bull Boy.mp3,en,DFA,3,587.6,60.38729739189148,0.10276939651445112,-4.3046875,130,47,True,basic_performance,small,
+006 懒惰的男孩 The Lazy Bull Boy.mp3,en,aho_corasick,3,587.6,60.95634150505066,0.1037378174013796,9.98828125,130,47,True,basic_performance,small,
+006 懒惰的男孩 The Lazy Bull Boy.mp3,en,trie_tree,3,587.6,61.917479515075684,0.1053735185756904,0.953125,130,47,True,basic_performance,small,
+006 懒惰的男孩 The Lazy Bull Boy.mp3,en,replace,3,587.6,60.5257363319397,0.10300499716123161,-17.36328125,130,47,True,basic_performance,small,
+006 懒惰的男孩 The Lazy Bull Boy.mp3,en,regular_expression,3,587.6,60.5675733089447,0.1030761969178773,3.8046875,130,47,True,basic_performance,small,
+【课外侦探组1】第11章，比赛、探案两不误_2.mp3,zh,DFA,3,344.44,47.5398907661438,0.1380208186219481,22.01171875,177,29,True,word_set_size,small,
+【课外侦探组1】第11章，比赛、探案两不误_2.mp3,zh,aho_corasick,3,344.44,47.564597606658936,0.13809254908448187,-2.84765625,177,29,True,word_set_size,small,
+【课外侦探组1】第11章，比赛、探案两不误_2.mp3,zh,trie_tree,3,344.44,49.82398247718811,0.1446521381871679,-5.80859375,177,29,True,word_set_size,small,
+【课外侦探组1】第11章，比赛、探案两不误_2.mp3,zh,replace,3,344.44,47.770427942276,0.13869012873730113,7.3125,177,29,True,word_set_size,small,
+【课外侦探组1】第11章，比赛、探案两不误_2.mp3,zh,regular_expression,3,344.44,47.29785203933716,0.1373181164769979,12.5625,177,29,True,word_set_size,small,
+【课外侦探组1】第11章，比赛、探案两不误_2.mp3,zh,DFA,10,344.44,47.47003746032715,0.1378180160850283,-11.9609375,177,30,True,word_set_size,medium,
+【课外侦探组1】第11章，比赛、探案两不误_2.mp3,zh,aho_corasick,10,344.44,47.3608193397522,0.13750092712737255,-13.19140625,177,30,True,word_set_size,medium,
+【课外侦探组1】第11章，比赛、探案两不误_2.mp3,zh,trie_tree,10,344.44,47.26364612579346,0.13721880770466108,14.76953125,177,30,True,word_set_size,medium,
+【课外侦探组1】第11章，比赛、探案两不误_2.mp3,zh,replace,10,344.44,47.43827676773071,0.1377258064328496,-7.16015625,177,30,True,word_set_size,medium,
+【课外侦探组1】第11章，比赛、探案两不误_2.mp3,zh,regular_expression,10,344.44,47.510791301727295,0.1379363352157917,4.3984375,177,30,True,word_set_size,medium,
+【课外侦探组1】第11章，比赛、探案两不误_2.mp3,zh,DFA,50,344.44,48.00992178916931,0.1393854424258777,-0.3515625,177,38,True,word_set_size,large,
+【课外侦探组1】第11章，比赛、探案两不误_2.mp3,zh,aho_corasick,50,344.44,48.521982192993164,0.14087208858725225,1.4375,177,38,True,word_set_size,large,
+【课外侦探组1】第11章，比赛、探案两不误_2.mp3,zh,trie_tree,50,344.44,47.78015995025635,0.1387183833185935,-1.76171875,177,38,True,word_set_size,large,
+【课外侦探组1】第11章，比赛、探案两不误_2.mp3,zh,replace,50,344.44,47.54975438117981,0.13804945529317098,2.48828125,177,38,True,word_set_size,large,
+【课外侦探组1】第11章，比赛、探案两不误_2.mp3,zh,regular_expression,50,344.44,48.48122239112854,0.14075375215169128,-3.1953125,177,38,True,word_set_size,large,
+【课外侦探组1】第12章，校运会上的重大发现_1.mp3,zh,DFA,3,300.32,36.20771098136902,0.12056376858473968,-9.171875,147,15,True,word_set_size,small,
+【课外侦探组1】第12章，校运会上的重大发现_1.mp3,zh,aho_corasick,3,300.32,36.115484952926636,0.12025667605529647,-3.25,147,15,True,word_set_size,small,
+【课外侦探组1】第12章，校运会上的重大发现_1.mp3,zh,trie_tree,3,300.32,36.18988800048828,0.12050442195154595,7.41796875,147,15,True,word_set_size,small,
+【课外侦探组1】第12章，校运会上的重大发现_1.mp3,zh,replace,3,300.32,36.35043978691101,0.12103902433041759,-13.9296875,147,15,True,word_set_size,small,
+【课外侦探组1】第12章，校运会上的重大发现_1.mp3,zh,regular_expression,3,300.32,36.23578929901123,0.12065726324923826,-1.5,147,15,True,word_set_size,small,
+【课外侦探组1】第12章，校运会上的重大发现_1.mp3,zh,DFA,10,300.32,36.201807498931885,0.12054411127774337,18.3984375,147,19,True,word_set_size,medium,
+【课外侦探组1】第12章，校运会上的重大发现_1.mp3,zh,aho_corasick,10,300.32,36.10319209098816,0.1202157435102163,9.32421875,147,19,True,word_set_size,medium,
+【课外侦探组1】第12章，校运会上的重大发现_1.mp3,zh,trie_tree,10,300.32,36.53216052055359,0.12164411467952048,-17.53125,147,19,True,word_set_size,medium,
+【课外侦探组1】第12章，校运会上的重大发现_1.mp3,zh,replace,10,300.32,38.77021837234497,0.12909635845879386,-17.6796875,147,19,True,word_set_size,medium,
+【课外侦探组1】第12章，校运会上的重大发现_1.mp3,zh,regular_expression,10,300.32,36.48302245140076,0.12148049564265037,11.11328125,147,19,True,word_set_size,medium,
+【课外侦探组1】第12章，校运会上的重大发现_1.mp3,zh,DFA,50,300.32,36.0501184463501,0.12003901986664257,-7.77734375,147,24,True,word_set_size,large,
+【课外侦探组1】第12章，校运会上的重大发现_1.mp3,zh,aho_corasick,50,300.32,36.179444789886475,0.12046964834139076,43.9765625,147,24,True,word_set_size,large,
+【课外侦探组1】第12章，校运会上的重大发现_1.mp3,zh,trie_tree,50,300.32,36.11986756324768,0.1202712691903559,-1.6015625,147,24,True,word_set_size,large,
+【课外侦探组1】第12章，校运会上的重大发现_1.mp3,zh,replace,50,300.32,36.2251181602478,0.12062173068809205,-7.37109375,147,24,True,word_set_size,large,
+【课外侦探组1】第12章，校运会上的重大发现_1.mp3,zh,regular_expression,50,300.32,35.93761348724365,0.1196644029276893,-20.76171875,147,24,True,word_set_size,large,
+【课外侦探组1】第12章，校运会上的重大发现_2.mp3,zh,DFA,3,319.54,43.20131158828735,0.13519844648021329,15.41796875,153,36,True,word_set_size,small,
+【课外侦探组1】第12章，校运会上的重大发现_2.mp3,zh,aho_corasick,3,319.54,43.171295166015625,0.13510451012710653,-7.66015625,153,36,True,word_set_size,small,
+【课外侦探组1】第12章，校运会上的重大发现_2.mp3,zh,trie_tree,3,319.54,43.179097175598145,0.135128926505596,-1.53515625,153,36,True,word_set_size,small,
+【课外侦探组1】第12章，校运会上的重大发现_2.mp3,zh,replace,3,319.54,42.99734330177307,0.13456012800204378,7.09765625,153,36,True,word_set_size,small,
+【课外侦探组1】第12章，校运会上的重大发现_2.mp3,zh,regular_expression,3,319.54,43.83450698852539,0.13718003063317702,15.76953125,153,36,True,word_set_size,small,
+【课外侦探组1】第12章，校运会上的重大发现_2.mp3,zh,DFA,10,319.54,43.179564476013184,0.13513038892161602,-47.71484375,153,41,True,word_set_size,medium,
+【课外侦探组1】第12章，校运会上的重大发现_2.mp3,zh,aho_corasick,10,319.54,43.146726846694946,0.13502762360485368,31.625,153,41,True,word_set_size,medium,
+【课外侦探组1】第12章，校运会上的重大发现_2.mp3,zh,trie_tree,10,319.54,42.947426557540894,0.13440391361814136,-0.73046875,153,41,True,word_set_size,medium,
+【课外侦探组1】第12章，校运会上的重大发现_2.mp3,zh,replace,10,319.54,43.23825526237488,0.13531406165855567,-9.65234375,153,41,True,word_set_size,medium,
+【课外侦探组1】第12章，校运会上的重大发现_2.mp3,zh,regular_expression,10,319.54,42.99904942512512,0.1345654673127781,25.91796875,153,41,True,word_set_size,medium,
+【课外侦探组1】第12章，校运会上的重大发现_2.mp3,zh,DFA,50,319.54,43.23342204093933,0.1352989360985771,-7.0546875,153,45,True,word_set_size,large,
+【课外侦探组1】第12章，校运会上的重大发现_2.mp3,zh,aho_corasick,50,319.54,42.91947865486145,0.1343164506943151,-8.5625,153,45,True,word_set_size,large,
+【课外侦探组1】第12章，校运会上的重大发现_2.mp3,zh,trie_tree,50,319.54,43.02515244483948,0.13464715667784777,6.04296875,153,45,True,word_set_size,large,
+【课外侦探组1】第12章，校运会上的重大发现_2.mp3,zh,replace,50,319.54,42.857433795928955,0.13412228139177865,-11.46875,153,45,True,word_set_size,large,
+【课外侦探组1】第12章，校运会上的重大发现_2.mp3,zh,regular_expression,50,319.54,43.132309913635254,0.134982505832244,-4.60546875,153,45,True,word_set_size,large,
+【课外侦探组1】第3章，难道汽车会隐形？（下）_1.mp3,zh,DFA,10,197.28,26.892077922821045,0.13631426359905233,-13.79296875,91,21,True,audio_length,medium,short
+【课外侦探组1】第3章，难道汽车会隐形？（下）_1.mp3,zh,aho_corasick,10,197.28,24.705969095230103,0.12523301447298307,-3.30078125,91,21,True,audio_length,medium,short
+【课外侦探组1】第3章，难道汽车会隐形？（下）_1.mp3,zh,trie_tree,10,197.28,24.21197009086609,0.12272896436975916,0.03515625,91,21,True,audio_length,medium,short
+【课外侦探组1】第3章，难道汽车会隐形？（下）_1.mp3,zh,replace,10,197.28,24.25350570678711,0.12293950581299225,0.359375,91,21,True,audio_length,medium,short
+【课外侦探组1】第3章，难道汽车会隐形？（下）_1.mp3,zh,regular_expression,10,197.28,24.37733006477356,0.12356716375087977,1.046875,91,21,True,audio_length,medium,short
+【课外侦探组1】第3章，难道汽车会隐形？（下）_2.mp3,zh,DFA,10,202.8,28.496239185333252,0.14051399992767874,41.125,96,28,True,audio_length,medium,short
+【课外侦探组1】第3章，难道汽车会隐形？（下）_2.mp3,zh,aho_corasick,10,202.8,28.287621021270752,0.13948531075577292,0.6015625,96,28,True,audio_length,medium,short
+【课外侦探组1】第3章，难道汽车会隐形？（下）_2.mp3,zh,trie_tree,10,202.8,28.211174726486206,0.13910835663947832,-11.515625,96,28,True,audio_length,medium,short
+【课外侦探组1】第3章，难道汽车会隐形？（下）_2.mp3,zh,replace,10,202.8,28.461026430130005,0.14034036701247535,-10.36328125,96,28,True,audio_length,medium,short
+【课外侦探组1】第3章，难道汽车会隐形？（下）_2.mp3,zh,regular_expression,10,202.8,28.54764199256897,0.14076746544659255,11.99609375,96,28,True,audio_length,medium,short
+【课外侦探组1】第3章，难道汽车会隐形？（上）_2.mp3,zh,DFA,10,215.02,29.077012300491333,0.13522933820338262,-13.96875,117,20,True,audio_length,medium,short
+【课外侦探组1】第3章，难道汽车会隐形？（上）_2.mp3,zh,aho_corasick,10,215.02,29.089000701904297,0.13528509302345965,8.70703125,117,20,True,audio_length,medium,short
+【课外侦探组1】第3章，难道汽车会隐形？（上）_2.mp3,zh,trie_tree,10,215.02,29.22205877304077,0.1359039102085423,1.125,117,20,True,audio_length,medium,short
+【课外侦探组1】第3章，难道汽车会隐形？（上）_2.mp3,zh,replace,10,215.02,29.21419596672058,0.13586734241801032,3.28125,117,20,True,audio_length,medium,short
+【课外侦探组1】第3章，难道汽车会隐形？（上）_2.mp3,zh,regular_expression,10,215.02,29.17188596725464,0.13567057002722835,7.3828125,117,20,True,audio_length,medium,short
+【课外侦探组1】第3章，难道汽车会隐形？（上）_1.mp3,zh,DFA,10,217.0,24.94497799873352,0.11495381566236645,-7.125,81,14,True,audio_length,medium,medium
+【课外侦探组1】第3章，难道汽车会隐形？（上）_1.mp3,zh,aho_corasick,10,217.0,26.250526428222656,0.12097016787199381,-0.890625,81,14,True,audio_length,medium,medium
+【课外侦探组1】第3章，难道汽车会隐形？（上）_1.mp3,zh,trie_tree,10,217.0,25.094261169433594,0.11564175654116864,-3.27734375,81,14,True,audio_length,medium,medium
+【课外侦探组1】第3章，难道汽车会隐形？（上）_1.mp3,zh,replace,10,217.0,25.19232416152954,0.11609365973055089,-23.1640625,81,14,True,audio_length,medium,medium
+【课外侦探组1】第3章，难道汽车会隐形？（上）_1.mp3,zh,regular_expression,10,217.0,25.254920721054077,0.11638212313849805,15.1640625,81,14,True,audio_length,medium,medium
+【课外侦探组1】第5章，被删除邮件的秘密_1.mp3,zh,DFA,10,322.18,40.34549403190613,0.1252265628900184,-19.734375,154,49,True,audio_length,medium,medium
+【课外侦探组1】第5章，被删除邮件的秘密_1.mp3,zh,aho_corasick,10,322.18,40.2600781917572,0.12496144450852692,33.3671875,154,49,True,audio_length,medium,medium
+【课外侦探组1】第5章，被删除邮件的秘密_1.mp3,zh,trie_tree,10,322.18,40.08526921272278,0.12441886278702209,-6.8203125,154,49,True,audio_length,medium,medium
+【课外侦探组1】第5章，被删除邮件的秘密_1.mp3,zh,replace,10,322.18,40.40934491157532,0.1254247467613611,17.15234375,154,49,True,audio_length,medium,medium
+【课外侦探组1】第5章，被删除邮件的秘密_1.mp3,zh,regular_expression,10,322.18,40.59704518318176,0.126007341185616,-2.50390625,154,49,True,audio_length,medium,medium
+【课外侦探组1】第2章，被人盯梢的小侦探_2.mp3,zh,DFA,10,326.8,42.34485697746277,0.12957422575723002,-10.484375,155,39,True,audio_length,medium,medium
+【课外侦探组1】第2章，被人盯梢的小侦探_2.mp3,zh,aho_corasick,10,326.8,42.10218286514282,0.12883164891414572,5.48046875,155,39,True,audio_length,medium,medium
+【课外侦探组1】第2章，被人盯梢的小侦探_2.mp3,zh,trie_tree,10,326.8,42.12482738494873,0.1289009405904184,-2.40234375,155,39,True,audio_length,medium,medium
+【课外侦探组1】第2章，被人盯梢的小侦探_2.mp3,zh,replace,10,326.8,42.010801553726196,0.12855202433820745,0.64453125,155,39,True,audio_length,medium,medium
+【课外侦探组1】第2章，被人盯梢的小侦探_2.mp3,zh,regular_expression,10,326.8,44.5258047580719,0.1362478725767194,2.24609375,155,39,True,audio_length,medium,medium
+【课外侦探组1】第2章，被人盯梢的小侦探_1.mp3,zh,DFA,10,338.94,42.15504741668701,0.12437318527375646,-39.73828125,151,39,True,audio_length,medium,long
+【课外侦探组1】第2章，被人盯梢的小侦探_1.mp3,zh,aho_corasick,10,338.94,42.00773596763611,0.12393856130181186,3.890625,151,39,True,audio_length,medium,long
+【课外侦探组1】第2章，被人盯梢的小侦探_1.mp3,zh,trie_tree,10,338.94,42.02349352836609,0.12398505201028527,-0.203125,151,39,True,audio_length,medium,long
+【课外侦探组1】第2章，被人盯梢的小侦探_1.mp3,zh,replace,10,338.94,41.88811635971069,0.12358563863725348,-0.09765625,151,39,True,audio_length,medium,long
+【课外侦探组1】第2章，被人盯梢的小侦探_1.mp3,zh,regular_expression,10,338.94,41.86769366264343,0.12352538402856976,8.3984375,151,39,True,audio_length,medium,long
+【课外侦探组1】第4章，办公室里的窃案_1.mp3,zh,DFA,10,369.94,47.54665732383728,0.12852532119759225,15.19921875,175,29,True,audio_length,medium,long
+【课外侦探组1】第4章，办公室里的窃案_1.mp3,zh,aho_corasick,10,369.94,47.1686429977417,0.127503495155273,8.9140625,175,29,True,audio_length,medium,long
+【课外侦探组1】第4章，办公室里的窃案_1.mp3,zh,trie_tree,10,369.94,47.362871408462524,0.1280285219453493,5.34375,175,29,True,audio_length,medium,long
+【课外侦探组1】第4章，办公室里的窃案_1.mp3,zh,replace,10,369.94,47.798564195632935,0.129206261003495,-6.71484375,175,29,True,audio_length,medium,long
+【课外侦探组1】第4章，办公室里的窃案_1.mp3,zh,regular_expression,10,369.94,47.61488103866577,0.12870973952172182,8.38671875,175,29,True,audio_length,medium,long
+【课外侦探组1】第4章，办公室里的窃案_2.mp3,zh,DFA,10,398.08,56.138320446014404,0.14102271012362944,5.08203125,203,51,True,audio_length,medium,long
+【课外侦探组1】第4章，办公室里的窃案_2.mp3,zh,aho_corasick,10,398.08,56.1037712097168,0.1409359204424156,-15.53515625,203,51,True,audio_length,medium,long
+【课外侦探组1】第4章，办公室里的窃案_2.mp3,zh,trie_tree,10,398.08,57.04961848258972,0.14331194353544444,-25.25390625,203,51,True,audio_length,medium,long
+【课外侦探组1】第4章，办公室里的窃案_2.mp3,zh,replace,10,398.08,56.14152240753174,0.1410307536362835,40.03515625,203,51,True,audio_length,medium,long
+【课外侦探组1】第4章，办公室里的窃案_2.mp3,zh,regular_expression,10,398.08,56.29018688201904,0.14140420740057036,-27.76171875,203,51,True,audio_length,medium,long
+【课外侦探组1】第14章，边打扑克边开会_2.mp3,zh,DFA,10,292.06,40.33417010307312,0.13810234233744134,19.83203125,157,51,True,language_comparison,medium,
+【课外侦探组1】第14章，边打扑克边开会_2.mp3,zh,aho_corasick,10,292.06,40.213112592697144,0.13768784699273143,-15.48046875,157,51,True,language_comparison,medium,
+【课外侦探组1】第14章，边打扑克边开会_2.mp3,zh,trie_tree,10,292.06,40.27020049095154,0.1378833133292869,-4.55859375,157,51,True,language_comparison,medium,
+【课外侦探组1】第14章，边打扑克边开会_2.mp3,zh,replace,10,292.06,43.169280767440796,0.1478096307862795,17.34765625,157,51,True,language_comparison,medium,
+【课外侦探组1】第14章，边打扑克边开会_2.mp3,zh,regular_expression,10,292.06,40.45501518249512,0.13851611032834046,11.66796875,157,51,True,language_comparison,medium,
+【课外侦探组1】第15章，至尊账号网上屠龙_1.mp3,zh,DFA,10,269.6,33.75398230552673,0.1252002311035858,-13.90625,115,23,True,language_comparison,medium,
+【课外侦探组1】第15章，至尊账号网上屠龙_1.mp3,zh,aho_corasick,10,269.6,33.9471480846405,0.1259167213821977,16.73046875,115,23,True,language_comparison,medium,
+【课外侦探组1】第15章，至尊账号网上屠龙_1.mp3,zh,trie_tree,10,269.6,33.71247887611389,0.12504628663246992,-21.4375,115,23,True,language_comparison,medium,
+【课外侦探组1】第15章，至尊账号网上屠龙_1.mp3,zh,replace,10,269.6,33.70185852050781,0.1250068936220616,4.828125,115,23,True,language_comparison,medium,
+【课外侦探组1】第15章，至尊账号网上屠龙_1.mp3,zh,regular_expression,10,269.6,33.77335524559021,0.12527208918987465,19.76171875,115,23,True,language_comparison,medium,
+【课外侦探组1】第15章，至尊账号网上屠龙_2.mp3,zh,DFA,10,266.08,34.59426498413086,0.13001452564691393,-17.6328125,140,30,True,language_comparison,medium,
+【课外侦探组1】第15章，至尊账号网上屠龙_2.mp3,zh,aho_corasick,10,266.08,34.525853395462036,0.1297574165493913,10.53515625,140,30,True,language_comparison,medium,
+【课外侦探组1】第15章，至尊账号网上屠龙_2.mp3,zh,trie_tree,10,266.08,34.57414698600769,0.1299389168145208,1.98046875,140,30,True,language_comparison,medium,
+【课外侦探组1】第15章，至尊账号网上屠龙_2.mp3,zh,replace,10,266.08,34.6141095161438,0.13008910672032398,-9.125,140,30,True,language_comparison,medium,
+【课外侦探组1】第15章，至尊账号网上屠龙_2.mp3,zh,regular_expression,10,266.08,35.6297664642334,0.1339062179202999,-3.93359375,140,30,True,language_comparison,medium,
+016 花木兰 Mulan.mp3,en,DFA,10,701.84,72.05775928497314,0.10266978126777206,-4.1875,246,92,True,language_comparison,medium,
+016 花木兰 Mulan.mp3,en,aho_corasick,10,701.84,71.23826003074646,0.10150213728306516,5.94921875,246,92,True,language_comparison,medium,
+016 花木兰 Mulan.mp3,en,trie_tree,10,701.84,71.06465983390808,0.10125478717928314,-6.91796875,246,92,True,language_comparison,medium,
+016 花木兰 Mulan.mp3,en,replace,10,701.84,71.07690691947937,0.10127223714732612,-1.94140625,246,92,True,language_comparison,medium,
+016 花木兰 Mulan.mp3,en,regular_expression,10,701.84,71.45272707939148,0.10180771554683614,1.7265625,246,92,True,language_comparison,medium,
+017 幸运胶鞋 Galoshes of Fortune.mp3,en,DFA,10,972.54,89.05227303504944,0.09156669446506,123.3125,296,129,True,language_comparison,medium,
+017 幸运胶鞋 Galoshes of Fortune.mp3,en,aho_corasick,10,972.54,91.76566243171692,0.09435669734069234,2.98828125,296,129,True,language_comparison,medium,
+017 幸运胶鞋 Galoshes of Fortune.mp3,en,trie_tree,10,972.54,88.52384114265442,0.09102334211719253,-8.11328125,296,129,True,language_comparison,medium,
+017 幸运胶鞋 Galoshes of Fortune.mp3,en,replace,10,972.54,89.06174230575562,0.09157643110386783,-1.30078125,296,129,True,language_comparison,medium,
+017 幸运胶鞋 Galoshes of Fortune.mp3,en,regular_expression,10,972.54,89.03534984588623,0.09154929344385447,1.0546875,296,129,True,language_comparison,medium,
+018 白蛇 White Snake.mp3,en,DFA,10,372.44,34.43714737892151,0.09246361126334848,-7.18359375,65,56,True,language_comparison,medium,
+018 白蛇 White Snake.mp3,en,aho_corasick,10,372.44,34.49768948554993,0.09262616659206832,7.80859375,65,56,True,language_comparison,medium,
+018 白蛇 White Snake.mp3,en,trie_tree,10,372.44,34.54646825790405,0.09275713741248,-1.2265625,65,56,True,language_comparison,medium,
+018 白蛇 White Snake.mp3,en,replace,10,372.44,35.36694145202637,0.094960104854544,-8.4140625,65,56,True,language_comparison,medium,
+018 白蛇 White Snake.mp3,en,regular_expression,10,372.44,34.580119132995605,0.09284748988560736,-0.76171875,65,56,True,language_comparison,medium,
